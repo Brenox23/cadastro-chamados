@@ -1,0 +1,29 @@
+{
+  "chamados": [
+    {
+      "id": "1",
+      "solicitante": "Maria Silva",
+      "setor": "Financeiro",
+      "tipo": "Software",
+      "descricao": "Planilha não abre mais",
+      "prioridade": "Alta"
+    },
+    {
+      "solicitante": "breno",
+      "setor": "TI",
+      "tipo": "Software",
+      "descricao": "asdsdsdddasdadd",
+      "prioridade": "Alta",
+      "id": "2"
+    },
+    {
+      "solicitante": "asdasda",
+      "setor": "TI",
+      "tipo": "Acesso",
+      "descricao": "adasdadadasdadadsaq",
+      "prioridade": "Média",
+      "id": "3"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
